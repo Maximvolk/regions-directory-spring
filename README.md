@@ -15,4 +15,4 @@ Project structured in a 'Clean Architecture'-like (Robert Martin) style.
 - Use Unit Of Work pattern over Repositories to unify working with DB.
 - Unit tests.
 - Caching.
-- Transform Resources to DTO if more adjacent services will appear and data interchange will increase (all that will live in RegionsDirectory.Common project).
+- Transform Resources to DTO if more adjacent services will appear and data interchange will increase.
